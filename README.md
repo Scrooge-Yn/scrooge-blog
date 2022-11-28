@@ -1,24 +1,7 @@
 # scrooge-blog
 
-## Project setup
-```
-yarn install
-```
+## Welcome to scrooge'blog
 
-### Compiles and hot-reloads for development
 ```
-yarn serve
+搭建中...
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
